@@ -1,2 +1,2 @@
 # TrashcanKitty-Setlist
-Song to play with Trash can Kitty (See setlist.md).
+Song to play with Trash can Kitty (See Setlist.md).
